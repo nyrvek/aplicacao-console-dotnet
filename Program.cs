@@ -34,8 +34,10 @@ do
                 Console.WriteLine(num1*num2);
             } 
        
-        Console.WriteLine("Deseja continuar? Sim=S Não= N");
+        Console.WriteLine("Deseja continuar?  Sim=(S) Não= (N)");
         fim = Console.ReadLine();     
     }
 while (fim==continuar);
+
+
  
