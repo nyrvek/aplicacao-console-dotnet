@@ -1,0 +1,15 @@
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.csproj.AssemblyReference.cache
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.AssemblyInfoInputs.cache
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.AssemblyInfo.cs
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.csproj.CoreCompileInputs.cache
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\bin\Debug\net6.0\aplicacao-console-dotnet.exe
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\bin\Debug\net6.0\aplicacao-console-dotnet.deps.json
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\bin\Debug\net6.0\aplicacao-console-dotnet.runtimeconfig.json
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\bin\Debug\net6.0\aplicacao-console-dotnet.dll
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\bin\Debug\net6.0\aplicacao-console-dotnet.pdb
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.dll
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\refint\aplicacao-console-dotnet.dll
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.pdb
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\aplicacao-console-dotnet.genruntimeconfig.cache
+D:\estudos de programação\dotnet\aplicacao-console-dotnet\obj\Debug\net6.0\ref\aplicacao-console-dotnet.dll
